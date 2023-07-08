@@ -3,7 +3,9 @@
 This is the hub of the blockchain project.
 
 [Blockchain API](https://github.com/hunteryavitz/blockchain-api)
+
 [Blockchain Admin Client](https://github.com/hunteryavitz/blockchain-client-admin)
+
 [Blockchain Mobile Client](https://github.com/hunteryavitz/blockchain-client-mobile)
 
 ---
