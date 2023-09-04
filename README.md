@@ -20,7 +20,7 @@ This is the hub of the blockchain project.
 
 **v0.0.1** - Unreleased
 
-Last updated: 7/7/23
+Last updated: 9/4/23
 
 ### Description
 This project is a POC blockchain that validates transactions to establish a chain of custody for some entity type.
@@ -31,11 +31,11 @@ This project marks an attempt to create a proof-of-concept blockchain network th
 ### Details
 Details for this project are yet to come.  A brief desciption follows:
 
-### [Back-End]()
+### Back-End
 
 There will be a back-end service that accepts transaction requests and manage a queue.  It will distribute these transaction requests to a set of nodes.  These nodes will process the transactions by mining a crypto-block and assigning the tranactions to this.  Then the node will add the block to the blockchain and broadcast to the other nodes so they can also update their blockchains through a validation process.
 
-### [Front-End]()
+### Front-End
 
 **Admin Panel**
 
@@ -45,7 +45,7 @@ There will be a front-end UI that will present to a blockchain network admin a s
 
 There will be a front-end UI that will present to a merchant a series of dashboards a various stages of transactions to monitor the overall throughput of transaction as they pertain to the merchant.  This could include **order received**, **order signed by**, or **order delivered**.
 
-**[Mobile Client]()**
+**Mobile Client**
 
 There will be a front-end UI that will present to a field worker a client interface that can create, read, and update transactions.  Creating a transaction could represent an order creation.  Reading a transaction could be a simple list / detail interface.  Updating a transaction could represent changing status in the chain of custody, such as **received**, **signed for**, or **delivered**.
 
