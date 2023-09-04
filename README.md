@@ -1,13 +1,7 @@
 # blockchain-main
-
----
-
 This is the hub of the blockchain project.
 
 ## Project Code
-
----
-
 This project has three parts so far.  There is the API, the Admin Client, and the Mobile Client.  Eventually there will be a strategy to add a database, containerization, and more complex server configurations.  For now, the complete functionality can be tested with just these three applications.
 
 ### API
@@ -26,9 +20,6 @@ The mobile client serves as the field user tool.  The user will submit transacti
 [Blockchain Mobile Client](https://github.com/hunteryavitz/blockchain-client-mobile)
 
 ## Project Resources
-
----
-
 This is a repository of the resources this project involves.
 
 ### Wiki
@@ -47,9 +38,6 @@ This is a break down of the components of the blockchain, block, and transaction
 [Anatomy](https://github.com/hunteryavitz/blockchain-main/wiki/Blockchain-Anatomy)
 
 ## Background
-
----
-
 Here is some background information about this project.  This will be updated as major work is completed.
 
 ### Version
@@ -68,14 +56,9 @@ This project marks an attempt to create a proof-of-concept blockchain network th
 Details for this project are yet to come.  A brief desciption follows:
 
 ## Back-End
-
----
-
 There will be a back-end service that accepts transaction requests and manage a queue.  It will distribute these transaction requests to a set of nodes.  These nodes will process the transactions by mining a crypto-block and assigning the tranactions to this.  Then the node will add the block to the blockchain and broadcast to the other nodes so they can also update their blockchains through a validation process.
 
 ## Front-End
-
----
 
 ### Admin Panel
 There will be a front-end UI that will present to a blockchain network admin a series of dashboards and various levels of metrics to monitor the overall network health of the blockchain.  This could include **average rate of consensus**, **transaction backlog**, or **block-chain growth**.
@@ -87,9 +70,6 @@ There will be a front-end UI that will present to a merchant a series of dashboa
 There will be a front-end UI that will present to a field worker a client interface that can create, read, and update transactions.  Creating a transaction could represent an order creation.  Reading a transaction could be a simple list / detail interface.  Updating a transaction could represent changing status in the chain of custody, such as **RECEIVED**, **SIGNED**, or **DELIVERED**.
 
 ## Development
-
----
-
 The following applications are needed for this project:
 
 - [TBD]()
