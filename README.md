@@ -80,15 +80,11 @@ The following applications are needed for this project:
 ## Get the necessary applications
 Pull and run the following applications in order to see the full functionality of this project:
 
--[Blockchain API](https://github.com/hunteryavitz/blockchain-api)
+- [Blockchain API](https://github.com/hunteryavitz/blockchain-api)
 
+- [Blockchain Web Client](https://github.com/hunteryavitz/blockchain-client-admin)
 
-
--[Blockchain Web Client](https://github.com/hunteryavitz/blockchain-client-admin)
-
-
-
--[Blockchain Mobile Client](https://github.com/hunteryavitz/blockchain-client-mobile)
+- [Blockchain Mobile Client](https://github.com/hunteryavitz/blockchain-client-mobile)
 
 ## Start each application 
 Start each application concurrently to see the full functionality of this project.
