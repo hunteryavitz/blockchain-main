@@ -90,18 +90,18 @@ Pull and run the following applications in order to see the full functionality o
 Start each application concurrently to see the full functionality of this project.
 
 The Blockchain API is a maven project.  Start this with the following commands:
-   - mvn clean package
-   - java blockchain-api.jar
+   - `mvn clean package`
+   - `java blockchain-api.jar`
 This API can then be tested at `http://localhost:8080` using Postman.
 
 The Blockchain Web Client is a Vue project.  Start the application with the following commands:
-   - yarn
-   - vite
+   - `yarn`
+   - `vite`
 The client can then be tested at `http://127.0.0.1/5137` using the browser. 
  
 The Blockchain Mobile Client is a React Native Expo project.  Start the application with the following commands:
-   - yarn
-   - expo start
+   - `yarn`
+   - `expo start`
 The client can the be tested on a physical device or at `127.0.0.1:5333` using an android emulator. 
 
 ### Summary
