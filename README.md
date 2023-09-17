@@ -1,7 +1,5 @@
 # blockchain-main
-This is the hub of the blockchain project.
-
-Continue reading for some background on this project, or just [Get Started Already](#get-started-already) with some simple instructions.
+This is the hub of the blockchain project.  Continue reading for some background on this project, or just [Get Started Already](#get-started-already) with a few simple instructions.
 
 ## Project Code
 This project has three parts so far.  There is the API, the Admin Client, and the Mobile Client.  Eventually there will be a strategy to add a database, containerization, and more complex server configurations.  For now, the complete functionality can be tested with just these three applications.
@@ -75,6 +73,34 @@ There will be a front-end UI that will present to a field worker a client interf
 The following applications are needed for this project:
 
 - [TBD]()
+
+
+# Get Started Already
+
+## Get the necessary applications
+Pull and run the following applications in order to see the full functionality of this project:
+
+-[Blockchain API]()
+-[Blockchain Web Client]()
+-[Blockchain Mobile Client]()
+
+## Start each application 
+Start each application concurrently to see the full functionality of this project.
+
+The Blockchain API is a maven project.  Start this with the following commands:
+   - mvn clean package
+   - java blockchain-api.jar
+This API can then be tested at `http://localhost:8080` using Postman.
+
+The Blockchain Web Client is a Vue project.  Start the application with the following commands:
+   - yarn
+   - vite
+The client can then be tested at `http://127.0.0.1/5137` using the browser. 
+ 
+The Blockchain Mobile Client is a React Native Expo project.  Start the application with the following commands:
+   - yarn
+   - expo start
+The client can the be tested on a physical device or at `127.0.0.1:5333` using an android emulator. 
 
 ### Summary
 The aim of this project is to build a blockchain network from scratch.  This is purely educational and **could not / should not** every be considered for a production environment.
