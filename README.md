@@ -75,7 +75,7 @@ The following applications are needed for this project:
 - [TBD]()
 
 
-# Getting Started Already
+# Get Started Already
 
 ## Get the necessary applications
 Pull and run the following applications in order to see the full functionality of this project:
