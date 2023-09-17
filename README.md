@@ -1,6 +1,8 @@
 # blockchain-main
 This is the hub of the blockchain project.
 
+Continue reading for some background on this project, or just [Get Started Already](#get-started-already) with some simple instructions.
+
 ## Project Code
 This project has three parts so far.  There is the API, the Admin Client, and the Mobile Client.  Eventually there will be a strategy to add a database, containerization, and more complex server configurations.  For now, the complete functionality can be tested with just these three applications.
 
