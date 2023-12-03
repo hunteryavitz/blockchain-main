@@ -117,6 +117,7 @@ I'm attempting to journal the progress for future reference.  I'll be creating p
 - [9/16/23](https://github.com/hunteryavitz/blockchain-main/wiki/Blockchain-Journal-%E2%80%90-9-16-23)
 - [9/17/23](https://github.com/hunteryavitz/blockchain-main/wiki/Blockchain-Journal-%E2%80%90-9-17-23)
 - [9/18/23](https://github.com/hunteryavitz/blockchain-main/wiki/Blockchain-Journal-%E2%80%90-9-18-23)
+- [12/3/23](https://github.com/hunteryavitz/blockchain-main/wiki/Blockchain-Journal-%E2%80%90-12-3-23)
 
 Feel free to download and enjoy without restrictions.
 
